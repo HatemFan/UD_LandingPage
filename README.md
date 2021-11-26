@@ -1,5 +1,7 @@
 # Landing Page Project
 
+This project is hosted on github on this link: https://hatemfan.github.io/UD_LandingPage/
+
 ## OverVirew
 
 This project is done for Udacity Nanodegree Program for front end development.

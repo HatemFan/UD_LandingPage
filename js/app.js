@@ -1,6 +1,6 @@
 /**
  * 
- * This project is hosted on github on this link: 
+ * This project is hosted on github on this link: https://hatemfan.github.io/UD_LandingPage/
  * 
  * JavaScrpit Code developed by Hatem Hassany
  *
