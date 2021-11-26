@@ -29,3 +29,11 @@ Js code contains three main parts.
 2- Make the navbar clickable and when choose one section, and move the page to this section
 
 3- Get the section appears on the screen to the users. and change active classes for the section to change the background and change navbar element
+
+## Sources
+
+I search for all new things on this website
+
+1- https://developer.mozilla.org/
+
+2- https://www.youtube.com/
